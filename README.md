@@ -16,8 +16,8 @@ Regularization:	Chuẩn hóa
 Simulation:	Mô phỏng  
 Surrogate Model:	Mô hình thay thế  
 Inverse Problem:	Bài toán ngược  
-Novelty	Tính mới	
-Benchmark	Chuẩn so sánh	
+Novelty	Tính mới  
+Benchmark	Chuẩn so sánh  
 Baseline	Mốc so sánh  
 Ablation Study	Phân tích ảnh hưởng từng phần  
 State-of-the-art (SOTA)	Mức tiên tiến nhất hiện nay  
