@@ -1,5 +1,5 @@
 PINNs: Mang noron co thong tin vat ly  
-Governing equations: phuong trinh chi phoi
+Governing equations: phuong trinh chi phoi  
 Constraint: rang buoc
 Loss funtion: ham mat mat
 Residual: phan du
