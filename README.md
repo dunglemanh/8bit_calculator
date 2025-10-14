@@ -11,7 +11,6 @@ Transfer Learning:	Học chuyển giao
 Generalization:	Khả năng tổng quát hóa  
 Overfitting:	Quá khớp  
 Regularization:	Chuẩn hóa  
-
 Surrogate Model:	Mô hình thay thế  
 Inverse Problem:	Bài toán ngược  
 Novelty:	Tính mới  
