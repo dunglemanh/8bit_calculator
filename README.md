@@ -1,6 +1,6 @@
 Governing equations: phuong trinh chi phoi  
 Constraint: rang buoc  
-Loss funtion: ham mat ma
+Loss funtion: ham mat m
 Residual: phan du  
 Boundary condition: dieu kien bien  
 Initial condition: dieu kien ban dau  
