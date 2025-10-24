@@ -13,7 +13,7 @@ Overfitting:	Quá khớp
 Regularization:	Chuẩn hóa  
 Surrogate Model:	Mô hình thay thế  
 Inverse Problem:	Bài toán ngược  
-Novelt
+Novel
 Benchmark:	Chuẩn so sánh  
 Baseline:	Mốc so sánh  
 Ablation Study:	Phân tích ảnh hưởng từng phần  
