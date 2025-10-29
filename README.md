@@ -17,5 +17,4 @@ Baseline:	Mốc so sánh
 Ablation Study:	Phân tích ảnh hưởng từng phần  
 State-of-the-art (SOTA):	Mức tiên tiến nhất hiện nay  
 Reproducibility:	Khả năng tái lập  
-
 Peer Review:	Phản biện đồng cấp  
