@@ -1,21 +1,18 @@
-# 8-bit Calculator (Verilog)
+8-bit Calculator (Verilog)
 
-## Overview
+Overview
 A simple 8-bit calculator implemented in Verilog HDL.
-
-## Features
+Features
 - Basic ALU operations
 - Register file
 - Control unit
 - Testbench included
-
-## Directory Structure
+Directory Structure
 - `src/rtl`: RTL modules
 - `src/tb`: Testbench
 - `sim`: Simulation scripts
 - `docs`: Block diagrams and documentation
-
-## Simulation
+Simulation
 ```bash
 cd sim
 ./run_simulation.sh
